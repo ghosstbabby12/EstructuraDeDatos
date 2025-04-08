@@ -1,0 +1,8 @@
+pip install ttkbootstrap
+pip install pytz
+pip install pygame
+
+Ejecutar: python main.py
+
+
+
